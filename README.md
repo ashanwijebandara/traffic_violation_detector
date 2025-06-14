@@ -8,7 +8,9 @@
 
 4. pip install ultralytics
 
-5. python track.py
+5. pip install cvzone
 
-6. python pmain.py
+6. python track.py
+
+7. python pmain.py
 
